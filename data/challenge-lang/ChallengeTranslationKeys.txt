@@ -1,0 +1,33 @@
+0x09D101B8 = Daily Challenges
+0x16634A23 = Daily General Challenges
+
+MPAC_GENERAL = General
+MPAC_ROLE_BOUNTYHUNTER = Bounty Hunter
+MPAC_ROLE_TRADER = Trader
+MPAC_ROLE_COLLECTOR = Collector
+MPAC_ROLE_MOONSHINER = Moonshiner
+MPAC_ROLE_NATURALIST = Naturalist
+
+PM_INF_CHLG = Challenges
+
+ROLE_CHALLENGES_BOUNTY_HUNTER = Bounty Hunter
+ROLE_CHALLENGES_COLLECTOR = Collector
+ROLE_CHALLENGES_MOONSHINER = Moonshiner
+ROLE_CHALLENGES_NATURALIST = Naturalist
+ROLE_CHALLENGES_TRADER = Trader
+
+0x2E191837 = Role Challenges
+0x16634A23 = Daily General Challenges
+0x546219B9 = Challenge Goals
+
+0xE1AD589F = Bonnie MacFarlane missions completed
+0xCC1B8E32 = Sadie Adler missions completed
+0xC343ED0C = Train clerk missions completed
+0xEA2CB734 = Bounty completed without killing an enemy or bounty target
+0xA8E458B0 = Bounty completed with at least one other Posse Member
+0x4706C434 = Bounties completed within one real-world hour
+0x5033D699 = Living bounty targets in a photograph
+
+MPAC_ROLE_BOUNTYHUNTER = 赏金猎人
+
+0xB917A3D2 = Reset

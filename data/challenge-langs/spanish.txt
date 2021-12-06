@@ -1,0 +1,803 @@
+MPGC_ALASKAN_GINSENG_PICKED = Ginsengs alaskeños recogidos
+
+MPGC_AMERICAN_GINSENG_PICKED = Ginsengs americanos recogidos
+
+MPGC_ANIMALS_SKINNED = Animales despellejados
+
+MPGC_ANIMAL_BOW_KILLS = Animales abatidos con arco
+
+MPGC_ANIMAL_KILLS = Animales abatidos
+
+MPGC_ANIMAL_KNIFE_KILLS = Animales abatidos con cuchillo
+
+MPGC_ANIMAL_THROWING_KILLS = Animales abatidos con arma arrojadiza
+
+MPGC_ARMADILLO_SKINNED = Armadillos de nueve bandas despellejados
+
+MPGC_BADGERS_SKINNED = Tejones americanos despellejados
+
+MPGC_BATS_SKINNED = Pequeños murciélagos café recogidos
+
+MPGC_BAY_BOLETE_PICKED = Boletos bayos recogidos
+
+MPGC_BEARS_KILLED = Osos abatidos
+
+MPGC_BEAVERS_SKINNED = Castores despellejados
+
+MPGC_BLACK_BERRY_PICKED = Moras recogidas
+
+MPGC_BLACK_CURRANT_PICKED = Groselleros negros recogidos
+
+MPGC_BOARS_SKINNED = Jabalíes despellejados
+
+MPGC_BUFFALO_SKINNED = Bisontes despellejados
+
+MPGC_BULLFROGS_SKINNED = Ranas toro americanas recogidas
+
+MPGC_BULLS_SKINNED = Toros despellejados
+
+MPGC_BURDOCK_ROOT_PICKED = Raíces de bardana recogidas
+
+MPGC_CHANTERELLE_PICKED = Chantarelas recogidas
+
+MPGC_CHICKENS_SKINNED = Pollos desplumados
+
+MPGC_CHIPMUNK_SKINNED = Ardillas occidentales listadas recogidas
+
+MPGC_COMMON_BULRUSH_PICKED = Eneas comunes recogidas
+
+MPGC_CONDOR_SKINNED = Cóndores desplumados
+
+MPGC_CONSUMABLE_BECAME_DRUNK = Veces que te has emborrachado
+
+MPGC_CONSUMABLE_CANDY_EATEN = Dulces comidos
+
+MPGC_CONSUMABLE_CANNED_GOODS_EATEN = Latas de comida consumidas
+
+MPGC_CONSUMABLE_COFFEE_DRUNK = Cafés tomados
+
+MPGC_CONSUMABLE_DRINKS_ORDERED_SALOON = Bebidas pedidas en tabernas
+
+MPGC_CONSUMABLE_DRY_GOODS_EATEN = Alimentos secos consumidos
+
+MPGC_CONSUMABLE_FRESH_PRODUCE_EATEN = Productos frescos consumidos
+
+MPGC_CONSUMABLE_HERBS_TASTED = Hierbas consumidas
+
+MPGC_CONSUMABLE_MEAT_EATEN = Carnes consumidas
+
+MPGC_CONSUMABLE_SALOON_SNACKS_EATEN = Aperitivos gratis comidos en una taberna
+
+MPGC_CONSUMABLE_TOBACCO_USED = Tabaco fumado o mascado
+
+MPGC_CONSUMABLE_TONICS_OILS_USED = Estadísticas del jugador potenciadas con tónicos
+
+MPGC_CORMORANT_SKINNED = Cormoranes desplumados
+
+MPGC_COUGARS_KILLED = Pumas abatidos
+
+MPGC_COWS_SKINNED = Vacas despellejadas
+
+MPGC_COYOTES_SKINNED = Coyotes despellejados
+
+MPGC_CRAFT_BIG_GAME_SEASONED = Carne de caza mayor sazonada cocinada
+
+MPGC_CRAFT_BROKE_DOWN_SMALL_ANIMALS = Cadáveres de animales pequeños despiezados
+
+MPGC_CRAFT_CRUSTACEAN_SEASONED = Crustáceos sazonados cocinados
+
+MPGC_CRAFT_EXOTIC_BIRD_SEASONED = Carne de ave exótica sazonada cocinada
+
+MPGC_CRAFT_FLAKEY_FISH_SEASONED = Pescados escamosos sazonados cocinados
+
+MPGC_CRAFT_FOOD = Provisiones cocinadas en una hoguera
+
+MPGC_CRAFT_GAME_SEASONED = Carne de caza sazonada cocinada
+
+MPGC_CRAFT_HORSE_CARE = Productos para caballos creados
+
+MPGC_CRAFT_MUTTON_SEASONED = Carne de ovino sazonada cocinada
+
+MPGC_CRAFT_PLUMP_BIRD_SEASONED = Carne de ave rolliza sazonada cocinada
+
+MPGC_CRAFT_PORK_SEASONED = Carne de porcino sazonada cocinada
+
+MPGC_CRAFT_PRIME_BEEF_SEASONED = Ternera de primera sazonada cocinada
+
+MPGC_CRAFT_SUCCULENT_FISH_SEASONED = Pescados suculentos sazonados cocinados
+
+MPGC_CRAFT_TONIC = Tónicos creados
+
+MPGC_CRAFT_VENISON_SEASONED = Venado maduro sazonado cocinado
+
+MPGC_CRANEWHOOPING_SKINNED = Grullas americanas desplumadas
+
+MPGC_CREEPING_THYME_PICKED = Tomillo recogido
+
+MPGC_CUSTOMIZATION_BELT_BUCKLE = Hebillas actualizadas
+
+MPGC_CUSTOMIZATION_CAMP_STYLE = Diseños del campamento actualizados
+
+MPGC_CUSTOMIZATION_CLOTHING_STYLE = Estilo de ropa actualizado
+
+MPGC_CUSTOMIZATION_FACIAL_APPEARANCE = Apariencia facial modificada en el barbero
+
+MPGC_CUSTOMIZATION_HAIRSTYLE = Peinado actualizado
+
+MPGC_CUSTOMIZATION_HORSE_KIT = Aperos del caballo actualizados
+
+MPGC_CUSTOMIZATION_HORSE_MASK = Máscaras puestas a tu caballo
+
+MPGC_CUSTOMIZATION_HORSE_STYLE = Apariencia de caballo actualizada
+
+MPGC_CUSTOMIZATION_MASK = Máscaras puestas
+
+MPGC_CUSTOMIZATION_WEAPON_CLEANING = Armas limpiadas con aceite para armas
+
+MPGC_CUSTOMIZATION_WEAPON_CUSTOMIZATION = Armas personalizadas
+
+MPGC_DEER_SKINNED = Ciervos despellejados
+
+MPGC_DESERT_SAGE_PICKED = Salvias del desierto recogidas
+
+MPGC_DISTANCE_ANY = Distancia recorrida
+
+MPGC_DISTANCE_COACH = Distancia recorrida en diligencia o carro
+
+MPGC_DISTANCE_COMPANION_BOAT = Distancia recorrida en barco con un miembro de la cuadrilla
+
+MPGC_DISTANCE_COMPANION_HORSE = Distancia recorrida a caballo con un miembro de la cuadrilla
+
+MPGC_DISTANCE_COMPANION_WAGON = Distancia recorrida en carro con un miembro de la cuadrilla
+
+MPGC_DISTANCE_DRIVEN_TRAIN = Distancia recorrida conduciendo un tren
+
+MPGC_DISTANCE_LED_HORSE = Distancia guiando a tu caballo
+
+MPGC_DISTANCE_MOUNT = Distancia recorrida a caballo
+
+MPGC_DISTANCE_ROWED_BOAT = Distancia remada en una barca o canoa
+
+MPGC_DISTANCE_RUN = Distancia recorrida a pie
+
+MPGC_DISTANCE_SWIM = Distancia recorrida a nado
+
+MPGC_DISTANCE_TRAIN = Distancia recorrida en tren
+
+MPGC_DOG_PAT = Perros acariciados
+
+MPGC_DUCKS_SKINNED = Patos desplumados
+
+MPGC_DYNAMIC_AMBUSH = Emboscadas superadas con éxito
+
+MPGC_DYNAMIC_CAMPSITE_DEFEND = Campamentos defendidos
+
+MPGC_DYNAMIC_FOUND_TREASURE_OR_MAP = Tesoros o mapas del tesoro hallados
+
+MPGC_DYNAMIC_HOBO_DOG = Perros seguidos hasta algo interesante
+
+MPGC_DYNAMIC_RESCUE_ESCORT_PED = Personas en apuros ayudadas
+
+MPGC_DYNAMIC_RUNAWAY_WAGON = Carro a la fuga detenido
+
+MPGC_EAGLES_SKINNED = Águilas desplumadas
+
+MPGC_EGRET_SKINNED = Garcetas desplumadas
+
+MPGC_ELK_SKINNED = Uapitíes despellejados
+
+MPGC_EMOTE_NPC = Gestos dirigidos a lugareños
+
+MPGC_EMOTE_PLAYER = Gestos dirigidos a jugadores
+
+MPGC_ENEMIES_GRAPPLED_TO_GROUND = Enemigos embestidos y tirados al suelo (no jugadores)
+
+MPGC_ENEMIES_KILLED_COVER = Enemigos abatidos a cubierto (no jugadores)
+
+MPGC_ENEMIES_KILLED_DEADEYE = Enemigos abatidos mientras usas el Dead Eye (no jugadores)
+
+MPGC_ENEMIES_KILLED_FROM_HIP = Enemigos abatidos sin apuntar (no jugadores)
+
+MPGC_ENEMIES_KILLED_FROM_LONG_DISTANCE = Enemigos abatidos a larga distancia (no jugadores)
+
+MPGC_ENEMIES_KILLED_GATLING_MAXIM = Enemigos abatidos con una ametralladora Maxim (no jugadores)
+
+MPGC_ENEMIES_KILLED_STEALTH = Enemigos abatidos sin que te detecten (no jugadores)
+
+MPGC_ENEMIES_KNOCKED_OUT = Enemigos noqueados (no jugadores)
+
+MPGC_ENEMIES_LOOTED = Enemigos saqueados (no jugadores)
+
+MPGC_ENEMY_HATS_SHOT_OFF = Sombreros de enemigos quitados con disparos (no jugadores)
+
+MPGC_ENGLISH_MACE_PICKED = Macis inglesas recogidas
+
+MPGC_EVERGREEN_HUCKLEBERRY_PICKED = Arándanos perennes recogidos
+
+MPGC_FISH_CAUGHT = Peces capturados
+
+MPGC_FISH_CAUGHT_BLUEGILL = Peces sol capturados
+
+MPGC_FISH_CAUGHT_BULLHEAD_CATFISH = Bagres cabeza de toro capturados
+
+MPGC_FISH_CAUGHT_CHAIN_PICKEREL = Lucios cadena capturados
+
+MPGC_FISH_CAUGHT_CHANNEL_CATFISH = Bagres americanos capturados
+
+MPGC_FISH_CAUGHT_FOOD = Peces capturados con comida
+
+MPGC_FISH_CAUGHT_LAKE_STURGEON = Esturiones de lago capturados
+
+MPGC_FISH_CAUGHT_LARGEMOUTH_BASS = Percas americanas capturadas
+
+MPGC_FISH_CAUGHT_LIVE_BAIT = Peces capturados con cebo vivo
+
+MPGC_FISH_CAUGHT_LONGNOSE_GAR = Pejelagartos narigudos capturados
+
+MPGC_FISH_CAUGHT_LURE = Peces capturados con señuelo
+
+MPGC_FISH_CAUGHT_MUSKIE = Muskallongas americanos capturados
+
+MPGC_FISH_CAUGHT_PERCH = Percas capturadas
+
+MPGC_FISH_CAUGHT_REDFIN_PICKEREL = Lucios americanos de aleta roja capturados
+
+MPGC_FISH_CAUGHT_ROCK_BASS = Lubinas de roca capturadas
+
+MPGC_FISH_CAUGHT_SMALLMOUTH_BASS = Lubinas de boca pequeña capturadas
+
+MPGC_FISH_CAUGHT_SOCKEYE_SALMON = Salmones rojos capturados
+
+MPGC_FISH_CAUGHT_STEELHEAD_TROUT = Truchas cabeza de acero capturadas
+
+MPGC_FISH_CAUGHT_VARIETY = Tipos de peces capturados
+
+MPGC_FISH_NORTHERN_PIKE = Lucios europeos capturados
+
+MPGC_FISH_SIZE_CAUGHT = Pez con un peso superior a 5 libras (2,2 kilos) capturado
+
+MPGC_FLYING_BIRD_KILLS = Pájaros abatidos en pleno vuelo
+
+MPGC_FLYING_BIRD_KILLS_SNIPER = Pájaros abatidos en pleno vuelo con fusil de precisión
+
+MPGC_FLYING_BIRD_TRAIN_KILLS = Pájaros abatidos en pleno vuelo desde un tren en marcha
+
+MPGC_FME_ATTEMPTS = Eventos del Modo Libre jugados
+
+MPGC_FME_WINS = Podios habiendo puntuado en eventos del Modo Libre
+
+MPGC_FOXES_SKINNED = Zorros despellejados
+
+MPGC_GATORS_KILLED = Caimanes abatidos
+
+MPGC_GFH_ANTHONY_FOREMAN_WINS = Misiones de Anthony Foreman completadas
+
+MPGC_GFH_HAMISH_SINCLAIR_WINS = Misiones de Hamish Sinclair completadas
+
+MPGC_GFH_JAMES_LANGTON_WINS = Misiones de James Langton completadas
+
+MPGC_GFH_SEAN_MACQUIRE_WINS = Misiones de Sean Macguire completadas
+
+MPGC_GFH_SHAKY_WINS = Misiones de Shaky completadas
+
+MPGC_GFH_THE_BOY_WINS = Misiones de El Muchacho completadas
+
+MPGC_GFH_WINS = Misiones del Modo Libre completadas
+
+MPGC_GILAMONSTER_SKINNED = Monstruos de Gila con bandas despellejados
+
+MPGC_GOATS_SKINNED = Cabras alpinas despellejadas
+
+MPGC_GOLDEN_CURRANT_PICKED = Groselleros dorados recogidos
+
+MPGC_GOOSE_SKINNED = Gansos desplumados
+
+MPGC_HAWKS_SKINNED = Halcones desplumados
+
+MPGC_HERONS_SKINNED = Garzas desplumadas
+
+MPGC_HIDEOUT_CLEAR = Guaridas despejadas
+
+MPGC_HORSE_ANIMALS_TRAMPLED = Animales pisoteados
+
+MPGC_HORSE_ENEMIES_TRAMPLED = Enemigos pisoteados (no jugadores)
+
+MPGC_HORSE_FED = Caballos alimentados
+
+MPGC_HORSE_JUMP_FROM_HEIGHT = Saltos a un caballo desde una altura de 3 m
+
+MPGC_HORSE_JUMP_TO_HORSE = Saltos desde un caballo a otro
+
+MPGC_HORSE_JUMP_TO_TRAIN = Saltos a trenes en marcha desde un caballo
+
+MPGC_HORSE_JUMP_TO_WAGON = Saltos a carros en marcha desde un caballo
+
+MPGC_HORSE_STOWED_ANIMALS = Animales cargados en el caballo
+
+MPGC_HORSE_TONICS_GIVEN = Tónicos para caballo usados
+
+MPGC_HORSE_VAULTS = Saltos a caballo
+
+MPGC_HUMMINGBIRD_SAGE_PICKED = Salvias de colibrí recogidas
+
+MPGC_IGUANAS_SKINNED = Iguanas despellejadas
+
+MPGC_INDIAN_TOBACCO_PICKED = Plantas de tabaco indio recogidas
+
+MPGC_JAVELINA_SKINNED = Pecarís de collar despellejados
+
+MPGC_LASSO_ENEMY_HORSEBACK = Enemigos lazados mientras montas a caballo (no jugadores)
+
+MPGC_LASSO_ENEMY_HORSEBACK_DRAGGED = Distancia recorrida con un enemigo arrastrado a caballo (no jugador)
+
+MPGC_LAW_LOSE_WANTED = Autoridades burladas con éxito
+
+MPGC_LOON_SKINNED = Somormujos desplumados
+
+MPGC_MILKWEED_PICKED = Asclepias recogidas
+
+MPGC_MOOSE_SKINNED = Alces despellejados
+
+MPGC_MUSKRATS_SKINNED = Ratas almizcleras americanas despellejadas
+
+MPGC_NOTORIETY_NO_HOSTILITY_TIMED = Nivel de hostilidad alto no alcanzado en un día de juego
+
+MPGC_OLEANDER_PICKED = Adelfas recogidas
+
+MPGC_OPOSSUMS_SKINNED = Zarigüeyas de Virginia despellejadas
+
+MPGC_OREGANO_PICKED = Plantas de orégano recogidas
+
+MPGC_OWLS_SKINNED = Búhos desplumados
+
+MPGC_OXEN_SKINNED = Bueyes despellejados
+
+MPGC_PANTHERS_KILLED = Panteras abatidas
+
+MPGC_PARASOL_MUSHROOM_PICKED = Galampernas recogidas
+
+MPGC_PELICANS_SKINNED = Pelícanos desplumados
+
+MPGC_PHEASANTS_SKINNED = Faisanes desplumados
+
+MPGC_PHOTOGRAPH_Cat = Gatos fotografiados
+
+MPGC_PHOTOGRAPH_DOG = Perros fotografiados
+
+MPGC_PHOTOGRAPH_PLAYER = Jugadores fotografiados
+
+MPGC_PHOTOGRAPH_SELFIE = Autorretratos hechos
+
+MPGC_PHOTOGRAPH_YOUR_HORSE = Fotografías hechas a tu caballo
+
+MPGC_PIGS_SKINNED = Cerdos despellejados
+
+MPGC_PLAYERS_COVER_FME = Bajas estando a cubierto en eventos del Modo Libre
+
+MPGC_PLAYERS_COVER_SHOWDOWN = Bajas estando a cubierto en Enfrentamientos
+
+MPGC_PLAYERS_DEADEYE_FME = Bajas con Dead Eye en eventos del Modo Libre
+
+MPGC_PLAYERS_DEADEYE_SHOWDOWN = Bajas con Dead Eye en Enfrentamientos
+
+MPGC_PLAYERS_HEADSHOT_BOW_FME = Bajas con tiros a la cabeza con arco en eventos del Modo Libre
+
+MPGC_PLAYERS_HEADSHOT_BOW_SHOWDOWN = Bajas con tiros a la cabeza con arco en Enfrentamientos
+
+MPGC_PLAYERS_HEADSHOT_FME = Bajas con tiros a la cabeza en eventos del Modo Libre
+
+MPGC_PLAYERS_HEADSHOT_PV = Bajas con tiros a la cabeza en Duelo de Cuadrillas
+
+MPGC_PLAYERS_HEADSHOT_SHOWDOWN = Bajas con tiros a la cabeza en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_BOW_FME = Bajas con arco en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_BOW_SHOWDOWN = Bajas con arco en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_EXPLOSIVES_FME = Bajas con explosivos en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_EXPLOSIVES_SHOWDOWN = Bajas con explosivos en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_FME = Bajas en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_FME_TIMER = Varios jugadores abatidos en 5 segundos en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_FROM_HIP_FME = Bajas sin apuntar en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_FROM_HIP_SHOWDOWN = Bajas sin apuntar en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_MELEE_FME = Bajas con combate cuerpo a cuerpo en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_MELEE_SHOWDOWN = Bajas con combate cuerpo a cuerpo en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_PISTOL_FME = Bajas con pistola en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_PISTOL_SHOWDOWN = Bajas con pistola en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_PV = Bajas en Duelo de Cuadrillas
+
+MPGC_PLAYERS_KILLED_PV_TIMER = Varios jugadores abatidos en 5 segundos en Duelo de Cuadrillas
+
+MPGC_PLAYERS_KILLED_REPEATER_FME = Bajas con arma de repetición en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_REPEATER_SHOWDOWN = Bajas con arma de repetición en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_REVOLVER_FME = Bajas con revólver en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_REVOLVER_SHOWDOWN = Bajas con revólver en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_RIFLE_FME = Bajas con fusil en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_RIFLE_SHOWDOWN = Bajas con fusil en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_SHOTGUN_FME = Bajas con escopeta en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_SHOTGUN_SHOWDOWN = Bajas con escopeta en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_SHOWDOWN = Bajas en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_SHOWDOWN_TIMER = Varios jugadores abatidos en 5 segundos en Enfrentamientos
+
+MPGC_PLAYERS_KILLED_THROW_FME = Bajas con armas arrojadizas en eventos del Modo Libre
+
+MPGC_PLAYERS_KILLED_THROW_SHOWDOWN = Bajas con armas arrojadizas en Enfrentamientos
+
+MPGC_PLAYERS_REVIVED = Jugadores reanimados
+
+MPGC_POSSE_BIRD_CHALLENGE_COMPLETED = Retos de tiro al pájaro completados
+
+MPGC_POSSE_FISH_CHALLENGE_COMPLETED = Retos de pesca colosal completados
+
+MPGC_POSSE_HERB_CHALLENGE_COMPLETED = Retos de recolecta de hierbas completados
+
+MPGC_POSSE_HUNT_POSSE_LEADER_ATTEMPTS = Cazas al líder completadas
+
+MPGC_POSSE_INFIGHTING_COMPLETED = Peleas internas de cuadrilla completadas
+
+MPGC_POSSE_JOIN = Cuadrillas a las que te has unido
+
+MPGC_POSSE_RACE_ATTEMPTS = Carreras de Cuadrilla completadas
+
+MPGC_PRAIRIECHICKEN_SKINNED = Urogallos desplumados
+
+MPGC_PRAIRIE_POPPY_PICKED = Malvas de las praderas recogidas
+
+MPGC_PRONGHORNS_SKINNED = Berrendos despellejados
+
+MPGC_RABBITS_SKINNED = Liebres de cola negra despellejadas
+
+MPGC_RACCOONS_SKINNED = Mapaches norteamericanos despellejados
+
+MPGC_RACE_WINS = Podios en carreras
+
+MPGC_RAMS_HEAD_PICKED = Cabezas de carnero recogidas
+
+MPGC_RAMS_SKINNED = Carneros despellejados
+
+MPGC_RATS_SKINNED = Ratas recogidas
+
+MPGC_RAVENS_SKINNED = Cuervos grandes occidentales desplumados
+
+MPGC_RED_RASPBERRY_PICKED = Frambuesas recogidas
+
+MPGC_RED_SAGE_PICKED = Salvias rojas recogidas
+
+MPGC_ROOSTERS_SKINNED = Gallos desplumados
+
+MPGC_SEAGULLS_SKINNED = Gaviotas desplumadas
+
+MPGC_SERIES_ADVERSARIAL_ATTEMPTS = Enfrentamientos terminados en series Enfrentamiento (cualquiera)
+
+MPGC_SERIES_ELIMINATION_ATTEMPTS = Enfrentamientos en las series de eliminación terminados
+
+MPGC_SERIES_ELIMINATION_WINS = Podios en Enfrentamientos de eliminación
+
+MPGC_SERIES_FEATURED_ATTEMPTS = Partidas en las series destacadas terminadas
+
+MPGC_SERIES_RACE_ATTEMPTS = Carreras terminadas en series de carreras
+
+MPGC_SERIES_SHOOTOUT_ATTEMPTS = Enfrentamientos terminados en series de tiroteo
+
+MPGC_SERIES_SHOOTOUT_WINS = Podios en Enfrentamientos de tiroteo
+
+MPGC_SERIES_TAKEOVER_ATTEMPTS = Enfrentamientos terminados en series de conquista
+
+MPGC_SERIES_TAKEOVER_WINS = Podios en Enfrentamientos de conquista
+
+MPGC_SHEEP_SKINNED = Ovejas despellejadas
+
+MPGC_SHOP_ANIMAL_CLAW_SELL = Garras de animales vendidas
+
+MPGC_SHOP_ANIMAL_MEAT_SELL = Carne vendida
+
+MPGC_SHOP_ANIMAL_TEETH_SELL = Dientes de animales vendidos
+
+MPGC_SHOP_ANIMAL_WHOLE_SELL = Cadáveres de animales vendidos
+
+MPGC_SHOP_FEATHERS_SELL = Plumas vendidas
+
+MPGC_SHOP_HERBS_SELL = Hierbas vendidas
+
+MPGC_SHOP_PELT_PRISTINE_SELL = Pieles en perfecto estado vendidas
+
+MPGC_SHOP_SELL_TO_FENCE = Objetos vendidos a un perista
+
+MPGC_SHOP_SELL_TO_TRAPPER = Objetos vendidos a Gus
+
+MPGC_SHOP_VISIT_BLACKWATER = Tiendas visitadas en Blackwater
+
+MPGC_SHOP_VISIT_RHODES = Tiendas visitadas en Rhodes
+
+MPGC_SHOP_VISIT_SAINT_DENIS = Tiendas visitadas en Saint Denis
+
+MPGC_SHOP_VISIT_STRAWBERRY = Tiendas visitadas en Strawberry
+
+MPGC_SHOP_VISIT_TUMBLEWEED = Tiendas visitadas en Tumbleweed
+
+MPGC_SHOP_VISIT_VALENTINE = Tiendas visitadas en Valentine
+
+MPGC_SHOWDOWN_WINS = Podios en Enfrentamientos
+
+MPGC_SKUNKS_SKINNED = Mofetas rayadas despellejadas
+
+MPGC_SNAKES_SKINNED = Serpientes despellejadas
+
+MPGC_SONGBIRDS_COLLECTED = Cadáveres de pájaros recogidos
+
+MPGC_SPOONBILL_SKINNED = Espátulas desplumadas
+
+MPGC_SQUIRREL_SKINNED = Ardillas recogidas
+
+MPGC_STORY_MISSION_WINS = Misiones de la trama completadas
+
+MPGC_STORY_MISSION_WINS_ON_CALL = Misiones de la trama completadas tras ponerte en espera
+
+MPGC_TOADS_SKINNED = Sapos occidentales despellejados
+
+MPGC_TRAVEL_TIMED_ANNESBURG_ARMADILLO = Annesburg y Armadillo visitados en una hora
+
+MPGC_TRAVEL_TIMED_COLTER_SAINT_DENIS = Colter y Saint Denis visitados en una hora
+
+MPGC_TRAVEL_TIMED_VALENTINE_VAN_HORN = Valentine y Van Horn visitados en 30 minutos
+
+MPGC_TRAVEL_VISIT_BOLGER_GLADE = Claro de Bolger visitado
+
+MPGC_TRAVEL_VISIT_BRANDYWINE_DROP = Salto de Brandywine visitado
+
+MPGC_TRAVEL_VISIT_COLTER = Colter visitado
+
+MPGC_TRAVEL_VISIT_COTORRA_SPRINGS = Manantial de la Cotorra visitado
+
+MPGC_TRAVEL_VISIT_FORT_MERCER = Fort Mercer visitado
+
+MPGC_TRAVEL_VISIT_FORT_WALLACE = Fort Wallace visitado
+
+MPGC_TRAVEL_VISIT_LAGRAS = Lagras visitado
+
+MPGC_TRAVEL_VISIT_MACFARLANE_RANCH = Rancho MacFarlane visitado
+
+MPGC_TRAVEL_VISIT_MOUNT_HAGEN = Cima del monte Hagen visitada
+
+MPGC_TRAVEL_VISIT_OWANJILA_DAM = Presa de Owanjila visitada
+
+MPGC_TRAVEL_VISIT_VAN_HORN = Van Horn visitado
+
+MPGC_TURKEYS_SKINNED = Pavos desplumados
+
+MPGC_TURTLE_SKINNED = Tortugas despellejadas
+
+MPGC_VANILLA_FLOWER_PICKED = Flores de vainilla recogidas
+
+MPGC_VIOLET_SNOWDROP_PICKED = Campanillas violeta recogidas
+
+MPGC_VULTURES_SKINNED = Buitres desplumados
+
+MPGC_WILD_CARROTS_PICKED = Zanahorias silvestres recogidas
+
+MPGC_WILD_FEVERFEW_PICKED = Matricarias silvestres recogidas
+
+MPGC_WILD_MINT_PICKED = Menta silvestre recogida
+
+MPGC_WINTERGREEN_BERRY_PICKED = Bayas de gaulteria recogidas
+
+MPGC_WOLVES_KILLED = Lobos abatidos
+
+MPGC_YARROW_PICKED = Milenramas recogidas
+
+MPRC_BOUNTY_GENERAL_DELIVERED = Objetivos entregados
+
+MPRC_BOUNTY_GENERAL_DELIVERED_MULTI_TARGET = Más de un objetivo entregado a la vez
+
+MPRC_BOUNTY_GENERAL_DELIVERED_TIMED_EASY = Misión de cazarrecompensas completada con 3 minutos o más de sobra
+
+MPRC_BOUNTY_GENERAL_DELIVERED_TIMED_HARD = Misión de cazarrecompensas completada con 5 minutos o más de sobra
+
+MPRC_BOUNTY_GENERAL_DELIVERED_TIMED_MED = Misión de cazarrecompensas completada con 4 minutos o más de sobra
+
+MPRC_BOUNTY_LOCATION_LEMOYNE = Objetivos entregados a partir de carteles de Lemoyne
+
+MPRC_BOUNTY_LOCATION_NEW_AUSTIN = Objetivos entregados a partir de carteles de New Austin
+
+MPRC_BOUNTY_LOCATION_NEW_HANOVER = Objetivos entregados a partir de carteles de New Hanover
+
+MPRC_BOUNTY_LOCATION_WEST_ELIZABETH = Objetivos entregados a partir de carteles de West Elizabeth
+
+MPRC_BOUNTY_MISSION_COMPLETED_EASY = Misiones de cazarrecompensas fáciles ($) completadas
+
+MPRC_BOUNTY_MISSION_COMPLETED_HARD = Misiones de cazarrecompensas difíciles ($$$) o de fugitivo legendario completadas
+
+MPRC_BOUNTY_MISSION_COMPLETED_MEDIUM = Misiones de cazarrecompensas intermedias ($$) completadas
+
+MPRC_BOUNTY_PLAYER_COMPLETED = Recompensas por jugadores fugitivos cobradas
+
+MPRC_BOUNTY_TARGETS_LOOTED = Objetivos saqueados
+
+MPRC_BOUNTY_USED_BOLAS = Objetivos derribados con boleadoras
+
+MPRC_BOUNTY_USED_EAGLE_EYE = Visión Eagle Eye usada para rastrear a un objetivo
+
+MPRC_BOUNTY_USED_LASSO_HORSEBACK = Objetivos a los que has echado el lazo desde el caballo
+
+MPRC_BOUNTY_USED_REINFORCED_LASSO = Objetivos atados con lazos reforzados
+
+MPRC_BOUNTY_USED_TRACK_ARROW = Objetivos marcados con flechas rastreadoras
+
+MPRC_COLLECTOR_ANTIQUE_ALCOHOL_DRUNK = Licores antiguos bebidos
+
+MPRC_COLLECTOR_ANTIQUE_BOTTLES_FOUND = Botellas de alcohol antiguas halladas
+
+MPRC_COLLECTOR_ARROWHEADS_FOUND = Puntas de flecha halladas
+
+MPRC_COLLECTOR_BIRD_EGGS_FOUND = Huevos de ave hallados
+
+MPRC_COLLECTOR_COINS_FOUND = Monedas halladas
+
+MPRC_COLLECTOR_FAMILY_HEIRLOOMS_FOUND = Reliquias familiares halladas
+
+MPRC_COLLECTOR_FOSSILS_FOUND = Fósiles hallados
+
+MPRC_COLLECTOR_ITEMS_COLLECTED = Colleccionables encontrados
+
+MPRC_COLLECTOR_ITEMS_LOOTED_ENEMY = Coleccionables saqueados de enemigos (no jugadores)
+
+MPRC_COLLECTOR_ITEMS_SOLD = Coleccionables vendidos a Madam Nazar
+
+MPRC_COLLECTOR_LOST_JEWELRY_FOUND = Joyas perdidas halladas
+
+MPRC_COLLECTOR_TAROT_CARDS_FOUND = Cartas del tarot halladas
+
+MPRC_COLLECTOR_USED_MAP = Mapas de coleccionista usados
+
+MPRC_COLLECTOR_USED_METAL_DECTECTOR = Coleccionables hallados con un detector de metales
+
+MPRC_COLLECTOR_USED_SHOVEL = Coleccionables hallados con una pala
+
+MPRC_COLLECTOR_WILD_FLOWERS_FOUND = Flores silvestres americanas halladas
+
+MPRC_MOONSHINER_BAND_PLAYED_HARD = 2 minutos tocando música con una banda
+
+MPRC_MOONSHINER_BAND_PLAYED_MED = 1 minuto tocando música con una banda
+
+MPRC_MOONSHINER_BAR_CHANGED_DECOR = Decoración de la licorería modificada
+
+MPRC_MOONSHINER_CRAFT_POISON_BOTTLE = Licor tóxico creado
+
+MPRC_MOONSHINER_DANCED_BAR_HARD = 2 minutos bailados en una licorería
+
+MPRC_MOONSHINER_DANCED_BAR_MED = 1 minuto bailado en una licorería
+
+MPRC_MOONSHINER_DRUNK_INTERACTION_BAR = Interacciones con jugadores ebrios en una licorería
+
+MPRC_MOONSHINER_LAST_ROUND_BAR = Última ronda en una licorería
+
+MPRC_MOONSHINER_MARKETING_MISSION_COMPLETED = Misiones de contrabando de licor completadas
+
+MPRC_MOONSHINER_MONEY_MADE = Dinero ganado vendiendo licor
+
+MPRC_MOONSHINER_MOONSHINE_DRANK_EASY = Licor propio suave o de mayor graduación bebido
+
+MPRC_MOONSHINER_MOONSHINE_DRANK_HARD = Licor propio fuerte bebido
+
+MPRC_MOONSHINER_MOONSHINE_DRANK_MED = Licor propio intermedio o de mayor graduación bebido
+
+MPRC_MOONSHINER_MOONSHINE_SERVED_BAR = Licor servido a otros jugadores en una licorería
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER = Licor de cualquier tipo vendido a un comprador
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_CONDITION_EASY = Licor vendido con, al menos, 10 botellas intactas
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_CONDITION_HARD = Licor vendido con, al menos, 18 botellas intactas
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_CONDITION_MED = Licor vendido con, al menos, 15 botellas intactas
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_HARD = Licor del tipo preferido vendido a un comprador
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_TIMED_EASY = Misión de venta de licor completada con 3 minutos de sobra
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_TIMED_HARD = Misión de venta de licor completada con 5 minutos de sobra
+
+MPRC_MOONSHINER_MOONSHINE_SOLD_BUYER_TIMED_MED = Misión de venta de licor completada con 4 minutos de sobra
+
+MPRC_MOONSHINER_RECIPE_COMPLETED_EASY = Recetas de licor normal o superior completadas
+
+MPRC_MOONSHINER_RECIPE_COMPLETED_HARD = Recetas de licor especial completadas
+
+MPRC_MOONSHINER_RECIPE_COMPLETED_MED = Recetas de licor mejorado o superior completadas
+
+MPRC_MOONSHINER_STORY_MISSION_COMPLETED = Misiones de la trama de licorista completadas
+
+MPRC_MOONSHINER_TRAVEL_WAGON = Distancia recorrida por el carro de licor en misiones
+
+MPRC_NATURALIST_CRAFTED_BLENDING_TONIC = Tónicos de camuflaje creados o usados
+
+MPRC_NATURALIST_CRAFTED_COOKED_WILDERNESS_CAMP = Objetos creados o comida cocinada en un campamento en la naturaleza
+
+MPRC_NATURALIST_DONT_KILL_ANIMALS_EASY = 12 horas del juego sin matar a un animal
+
+MPRC_NATURALIST_DONT_KILL_ANIMALS_HARD = 24 horas del juego sin matar a un animal
+
+MPRC_NATURALIST_DONT_KILL_ANIMALS_MED = 18 horas del juego sin matar a un animal
+
+MPRC_NATURALIST_PHOTO_ANIMAL_LEGENDARY = Animales legendarios fotografiados
+
+MPRC_NATURALIST_SAMPLES_SOLD = Muestras de animales vendidas a Harriet
+
+MPRC_NATURALIST_SAMPLES_TAKEN_TIMED = Muestras de animales tomadas en 10 minutos
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_DESERT = Muestras de animales del desierto tomadas
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_DOMESTICATED = Muestras de animales de granja tomadas
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_FOREST = Muestras de animales de bosques y ríos tomadas
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_GRASSLAND = Muestras de animales de montañas y praderas tomadas
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_LEGENDARY = Muestras de animales legendarios tomadas
+
+MPRC_NATURALIST_SAMPLE_ANIMAL_SWAMP = Muestras de animales de humedales tomadas
+
+MPRC_NATURALIST_TRANQ_ANIMAL_REVIVED = Animales sedados reanimados
+
+MPRC_NATURALIST_USED_HARDY_TONIC = Tónicos resilientes usados en temperatura extrema
+
+MPRC_NATURALIST_USED_LEGENDARY_BAIT = Animales legendarios encontrados usando feromonas
+
+MPRC_NATURALIST_USED_WEIGHT_TONIC = Tónicos de cambio de peso usados
+
+MPRC_TRADER_GOODS_SOLD_FAR_AWAY = Mercancía vendida a un comprador lejano
+
+MPRC_TRADER_GOODS_SOLD_LOCAL = Mercancía vendida a un comprador local
+
+MPRC_TRADER_MONEY_MADE = Dinero ganado comerciando
+
+MPRC_TRADER_RESUPPLY_COMPLETED = Misiones de reabastecimiento completadas
+
+MPRC_TRADER_RESUPPLY_COMPLETED_TIMED_EASY = Reabastecimiento completado con 3 minutos de sobra
+
+MPRC_TRADER_RESUPPLY_COMPLETED_TIMED_HARD = Reabastecimiento completado con 5 minutos de sobra
+
+MPRC_TRADER_RESUPPLY_COMPLETED_TIMED_MED = Reabastecimiento completado con 4 minutos de sobra
+
+MPRC_TRADER_SOLD_CARCASS_TIMED = Cadáveres donados en 10 minutos
+
+MPRC_TRADER_STEW_EATEN = Guisos del campamento comidos
+
+MPRC_TRADER_STEW_RECIPE_COMPLETED_CRIPPS = Guisos del campamento especiales de Cripps completados
+
+MPRC_TRADER_STEW_RECIPE_COMPLETED_HIGH = Guisos del campamento de calidad alta completados
+
+MPRC_TRADER_STEW_RECIPE_COMPLETED_SUPERIOR = Guisos del campamento de calidad superior completados
+
+MPRC_TRADER_SUPPLIES_DONATED = Donativos hechos a Cripps
+
+MPRC_TRADER_SUPPLIES_DONATED_ANIMAL_LARGE = Cadáveres de animales grandes donados a Cripps
+
+MPRC_TRADER_SUPPLIES_DONATED_ANIMAL_MEDIUM = Cadáveres de animales medianos donados a Cripps
+
+MPRC_TRADER_SUPPLIES_DONATED_ANIMAL_SMALL = Cadáveres de animales pequeños donados a Cripps
+
+MPRC_TRADER_SUPPLIES_DONATED_CARCASS_PERFECT = Cadáveres en perfecto estado donados a Cripps
+
+MPRC_TRADER_SUPPLIES_DONATED_PREDATOR = Cadáveres o pieles de depredadores letales donados
+
+MPRC_TRADER_TRAVEL_WAGON = Distancia recorrida con el carro de reparto en misiones

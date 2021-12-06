@@ -1,0 +1,59 @@
+MPGC_SHOWDOWN_WINS = Podios en Enfrentamientos
+
+MPGC_SKUNKS_SKINNED = Mofetas rayadas despellejadas
+
+MPGC_SNAKES_SKINNED = Serpientes despellejadas
+
+MPGC_SONGBIRDS_COLLECTED = Cadáveres de pájaros recogidos
+
+MPGC_SPOONBILL_SKINNED = Espátulas desplumadas
+
+MPGC_SQUIRREL_SKINNED = Ardillas recogidas
+
+MPGC_STORY_MISSION_WINS = Misiones de la trama completadas
+
+MPGC_STORY_MISSION_WINS_ON_CALL = Misiones de la trama completadas tras ponerte en espera
+
+MPGC_TOADS_SKINNED = Sapos occidentales despellejados
+
+MPGC_TURKEYS_SKINNED = Pavos desplumados
+
+MPGC_TURTLE_SKINNED = Tortugas despellejadas
+
+MPGC_VANILLA_FLOWER_PICKED = Flores de vainilla recogidas
+
+MPGC_VIOLET_SNOWDROP_PICKED = Campanillas violeta recogidas
+
+MPGC_VULTURES_SKINNED = Buitres desplumados
+
+MPGC_WILD_CARROTS_PICKED = Zanahorias silvestres recogidas
+
+MPGC_WILD_FEVERFEW_PICKED = Matricarias silvestres recogidas
+
+MPGC_WILD_MINT_PICKED = Menta silvestre recogida
+
+MPGC_WINTERGREEN_BERRY_PICKED = Bayas de gaulteria recogidas
+
+MPGC_WOLVES_KILLED = Lobos abatidos
+
+MPGC_YARROW_PICKED = Milenramas recogidas
+
+
+
+MPGC_SERIES_ADVERSARIAL_ATTEMPTS = Enfrentamientos terminados en series Enfrentamiento (cualquiera)
+
+MPGC_SERIES_ELIMINATION_ATTEMPTS = Enfrentamientos en las series de eliminación terminados
+
+MPGC_SERIES_ELIMINATION_WINS = Podios en Enfrentamientos de eliminación
+
+MPGC_SERIES_FEATURED_ATTEMPTS = Partidas en las series destacadas terminadas
+
+MPGC_SERIES_RACE_ATTEMPTS = Carreras terminadas en series de carreras
+
+MPGC_SERIES_SHOOTOUT_ATTEMPTS = Enfrentamientos terminados en series de tiroteo
+
+MPGC_SERIES_SHOOTOUT_WINS = Podios en Enfrentamientos de tiroteo
+
+MPGC_SERIES_TAKEOVER_ATTEMPTS = Enfrentamientos terminados en series de conquista
+
+MPGC_SERIES_TAKEOVER_WINS = Podios en Enfrentamientos de conquista

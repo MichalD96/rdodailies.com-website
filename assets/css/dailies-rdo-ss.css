@@ -1,0 +1,403 @@
+
+.daily-challenges-body {
+  background: #050505 url('/assets/images/daily-challenges/bg-challenges.png');
+  background-repeat: repeat;
+  background-position: 0px 0px;
+  width:505px;
+  margin:5px 0 0 0px;
+  user-select: text;
+
+}
+
+.daily-challenges-wrapper-sc-orig {
+    /*margin:0 auto;*/
+  width:500px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:10px 10px 10px 10px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #353535 url('/assets/images/daily-challenges/bg-challenges.png');
+	background-repeat: repeat-y;
+	overflow:hidden;
+    -ms-zoom: 0.96
+    -moz-transform: scale(0.96);
+    -moz-transform-origin: 0;
+    -o-transform: scale(0.96);
+    -o-transform-origin: 0;
+    -webkit-transform: scale(0.96);
+    -webkit-transform-origin: 0;
+}
+
+.daily-challenges-wrapper-sc {
+    /*margin:0 auto;*/
+  width:550px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:30px 15px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #000;
+	overflow:hidden;
+}
+
+.daily-challenges-wrapper-sc-ios {
+    /*margin:0 auto;*/
+  width:550px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:30px 15px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #000;
+	overflow:hidden;
+	-ms-zoom: 0.42
+    -moz-transform: scale(0.42);
+    -moz-transform-origin: 0;
+    -o-transform: scale(0.42);
+    -o-transform-origin: 0;
+    -webkit-transform: scale(0.42);
+    -webkit-transform-origin: 0;
+}
+
+.daily-challenges-wrapper-sc-ios2 {
+    /*margin:0 auto;*/
+  width:550px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:30px 15px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #000;
+	overflow:hidden;
+	-ms-zoom: 0.36
+    -moz-transform: scale(0.36);
+    -moz-transform-origin: 0;
+    -o-transform: scale(0.36);
+    -o-transform-origin: 0;
+    -webkit-transform: scale(0.36);
+    -webkit-transform-origin: 0;
+}
+.daily-challenges-wrapper-sc-ios3 {
+    /*margin:0 auto;*/
+  width:550px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:30px 15px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #000;
+	overflow:hidden;
+	-ms-zoom: 0.38
+    -moz-transform: scale(0.38);
+    -moz-transform-origin: 0;
+    -o-transform: scale(0.38);
+    -o-transform-origin: 0;
+    -webkit-transform: scale(0.38);
+    -webkit-transform-origin: 0;
+}
+
+.daily-challenges-container-sc {
+    /*margin:0 auto;*/
+  width:508px;
+/*  height:1660px;  */
+  margin:0 auto;
+  padding:10px 5px;
+/*  background: #111 url('/assets/images/side-menu/bg-challenges.png');  */
+/*	background-position: 100px 190px;  */
+	color: #fff;
+	background: #353535 url('/assets/images/daily-challenges/bg-challenges.png');
+	background-repeat: repeat-y;
+	overflow:hidden;
+}
+
+
+
+#challenges-sc-header {
+    display: flex;
+    margin: 6px;
+}
+
+#challenges-sc-header::after {
+    clear: both;
+}
+
+#challenges-sc-header-center {
+  flex-grow: 1;
+  height: 80px;
+  background-image: url(../images/daily-challenges/header_bg_center.png);
+  background-repeat: repeat-x;
+  background-size: auto 80px;
+  padding: 16px 2px 0px 2px;
+  color: #fff;
+  letter-spacing: 1.5px;
+}
+
+#challenges-sc-header-center>span {
+  font-family: RDRLino, serif;
+  font-weight: normal;
+  font-size:46px;
+  text-transform:uppercase;
+}
+
+#challenges-sc-header-left,
+#challenges-sc-header-right {
+  user-select: none;
+  height: 80px;
+	padding:0px;
+	margin:0px;
+}
+#challenges-sc-sub-header {
+  font-size: 16px;
+  color: #fff;
+}
+
+
+.daily-challenge-widgets-rdo {
+  margin:0;
+  padding:0;
+  width:500px;
+  height:30px;
+}
+
+.challenges-divider-rdo {
+  height: 4px;
+  width: 490px;
+  border: none;
+  background-image: url(../images/daily-challenges/header_border_white.png);
+  background-repeat: repeat-x;
+  background-size: auto 3px;
+  margin: 18px 0px 18px 0px;
+  opacity: 0.30;
+  
+}
+.daily-challenges-date-rdo {
+  letter-spacing: 1.6px;
+  word-spacing:6px;
+  font-family: RDRLino, serif;
+  text-transform: uppercase;
+  padding:6px 0px;
+  margin:0px;	
+  font-size:20px;
+  width:500px;
+  height:25px;
+  display:inline-block;
+  text-align:center;	
+}
+
+.daily-challenges-date-rdo a:visited,
+.daily-challenges-date-rdo a {
+    color: #fff;
+	text-decoration: none;
+    
+}
+
+.daily-challenges-date-rdo a:hover {
+    color: #fff;
+	text-decoration: none;
+}
+
+#clock-rdonline {
+  letter-spacing: 3px;
+  word-spacing:5px;
+  font-family: RDRLino, serif;
+  text-transform: uppercase;
+  font-size:20px;
+  text-align: left;
+  width:70px;
+  margin:10px 0px;	
+  
+}
+.clock-rdonline {
+  letter-spacing: 3px;
+  word-spacing:5px;
+  font-family: RDRLino, serif;
+  text-transform: uppercase;
+  font-size:20px;
+  text-align: left;
+  width:70px;
+  display:inline-flex;
+  margin:10px 0px;	
+  
+}
+.challenges-title-rdo-container {
+	position: relative;
+  user-select: none;
+  display: flex;
+  justify-content: space-between;
+  margin:16px 0 9px 0;
+	padding:0;
+	width:446px;
+  text-align: left;
+
+}
+
+.challenges-title-rdo-container-icon {
+  margin:0px 8px;
+  padding:0;
+  width:32px;
+  height:32px;
+
+}
+
+
+.challenges-title-rdo {
+  margin:2px 6px;
+  padding:0;
+  width:400px;
+  text-transform: uppercase;
+  letter-spacing:1.0px;
+  font-family: RDRLino, serif;
+  font-size:21px;
+
+}
+
+
+.challenges-title-rdo-text- {
+  margin:0;
+  padding:0;
+}
+
+.challenges-container-rdo {
+	width:460px;
+}
+
+.challenge-input-container-rdo {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin:1px 0px 4px 0px;
+  padding:0;
+   /*background-color:#1E7704;*/
+  background-color:000;
+  background-image: url("../images/challenge_bg/challenge_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height:40px;
+  width:475px;
+  color:#fff;
+}
+
+.challenge-input-container-rdo-text {
+  position: relative;
+  user-select: none;
+  display: flex;
+  justify-content: space-between;
+  margin:0px 0px 4px 0px;
+  padding:0;
+   /*background-color:#1E7704;*/
+  background-color:#000;
+  background-image: url("../images/challenge_bg/challenge_bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height:40px;
+  width:100%;
+  text-align: center;
+}
+
+
+.challenge-input-container-rdo .icon {
+  margin:5px 0px 10px 6px;
+  padding:4px;
+  height:28px;
+  width:28px;  
+}
+
+.challenge-goal-rdo {
+  margin:4px 4px 10px 8px;
+  padding:4px;
+  height:32px;
+  width:26px;
+  font-family: RDRLino, serif;
+  font-size:19px;
+  text-align: center;
+  
+}
+
+.challenge-input-container-rdo-label {
+  margin:10px 0px 0px 2px;
+  padding:0px;  
+  height:32px;
+  width:440px;
+  text-align: left;
+  font-size:15px;
+  font-family: HapnaSlabBold, serif;
+  letter-spacing:0.4px;
+  word-spacing:0.2px;
+  text-shadow: 2px 2px #000;
+  color:#FFF;
+}
+
+.challenge-input-container-rdo-label-text {
+  margin:9px 0px 0px 4px;
+  padding:0px;  
+  height:2px;
+  width:460px;
+  text-align: center;
+  font-size:15px;
+  font-family: HapnaDemiBold, serif;
+  letter-spacing:0.6px;
+  word-spacing:0px;
+}
+
+/* CHALLENGE INPUT CONTAINTER */
+
+.challenge-input-container-rdoforum {
+  display: table;
+  margin:5px 0px 7px 0px;
+  padding:0px 2px 0px 10px;
+  background: url("/assets/images/challenge_bg/challenge_bg.png") no-repeat;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: #000;
+  min-height: 40px;
+  max-height: 40px;
+  width: 500px;
+}
+
+.challenge-goal-rdoforumRDRLino {
+  display: table-cell;
+  vertical-align: middle;
+  margin:0px 0px 0px 0px;
+  padding:6px 0px 0px 0px;
+  min-width:30px;
+  font-family: RDRLino, serif;
+  font-size:20px;
+  text-align: center;
+  text-shadow: 2px 2px #000;
+  letter-spacing:0.6px;
+  word-spacing:0px;
+}
+
+.challenge-goal-rdoforum {
+  display: table-cell;
+  vertical-align: middle;
+  padding:5px 7px 0px 0px;
+  width:22px;
+  font-family: RDRLino, serif;
+  font-size:18px;
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 1px 1px #000;
+  letter-spacing:0.6px;
+  word-spacing:0px;
+}
+
+.challenge-input-container-label-rdoforum {
+  display: table-cell;
+  vertical-align: middle;
+  margin:-1px 0px;
+  padding:-1px 8px 0px 0px;
+  max-width:410px;
+  font-family: HapnaBold, serif;
+  font-size:14.8px;
+  text-align: left;
+  text-shadow: 1px 1px #000;
+  letter-spacing:0.7px;
+  word-spacing:0px;
+}

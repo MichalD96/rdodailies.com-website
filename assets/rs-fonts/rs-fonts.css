@@ -1,0 +1,69 @@
+@font-face {
+  font-family: RDRLino-Regular;
+  font-style: normal;
+  font-weight: 400;
+  src: url(RDRLino-Regular.woff) format("woff")
+}
+
+@font-face {
+  font-family: HapnaSlabSerif;
+  font-style: normal;
+  font-weight: 600;
+  src: url(HapnaSlabSerif_400.woff) format("woff")
+}
+
+
+
+@font-face {
+  font-family: nightmar;
+  font-style: normal;
+  font-weight: 100;
+  src: url(nightmar.woff) format("woff")
+}
+
+@font-face {
+  font-family: RDRCatalogueBold;
+  font-style: normal;
+  font-weight: 700;
+  src: url(RDRCatalogueBold.woff) format("woff")
+}
+
+@font-face {
+  font-family: BarlowCondensed;
+  font-style: normal;
+  font-weight: 500;
+  src: url(BarlowCondensed_500.woff) format("woff")
+}
+
+@font-face {
+  font-family: BarlowCondensed;
+  font-style: normal;
+  font-weight: 900;
+  src: url(BarlowCondensed_900.woff) format("woff")
+}
+
+/*
+@media (min-width:0px) {
+  :root {
+    --root-font-size: 16
+  }
+}
+
+@media (min-width:768px) {
+  :root {
+    --root-font-size: 18
+  }
+}
+
+@media (min-width:1024px) {
+  :root {
+    --root-font-size: 20
+  }
+}
+
+@media (min-width:1920px) {
+  :root {
+    --root-font-size: 22
+  }
+}
+*/

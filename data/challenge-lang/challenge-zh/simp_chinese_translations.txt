@@ -1,0 +1,74 @@
+$daily_challenges = "每日挑战"; 
+$daily_challenges_reset = "重置每日挑战";
+
+$challenges = "挑战";
+$challenges_completed = "已完成的挑战";
+
+$general_challenges = "常规挑战";
+$general_challenges_completed = "已完成的常规挑战";
+
+$role_challenges = "职业挑战";
+$role_challenges_completed = "已完成的职业挑战";
+
+$challenge_goals = "挑战目标";
+
+$general = "常规";
+
+$bounty = "赏金猎人";
+$bounty_role_rank = "赏金猎人职业等级";
+
+$collector = "收藏家";
+$collector_role_rank = "收藏家职业等级";
+$collector_reset_timer = "收藏品重置";
+
+$moonshiner = "私酒贩";
+$moonshiner_role_rank = "私酒贩职业等级";
+$moonshiner_reset_timer = "私酒买家重置";
+
+$naturalist = "博物学家";
+$naturalist_role_rank = "博物学家职业等级";
+$naturalist_reset_timer = "博物学家买家重置";
+
+$trader = "商贩";
+$trader_role_rank = "商贩职业等级";
+
+$madam_nazars_location = "纳扎尔夫人的位置";
+$madam_weekly_set = "纳扎尔夫人的每周收藏系列";
+$madam_weekly_set_desc = "找到系列中的所有物品并将该系列卖给纳扎尔夫人，以赚取";
+
+$gold_mulitiplier_menu = "金条加成倍数";
+$language_menu = "语言";
+
+$english = "英文";
+$brazilian = "巴西葡萄牙文";
+$french = "法文";
+$german = "德文";
+$italian = "意大利文";
+$japanese = "日文";
+$korean = "韩文";
+$mexican = "墨西哥西班牙文";
+$polish = "波兰文";
+$russian = "俄文";      
+$simp_chinese = "简体中文";
+$spanish = "西班牙文";
+$trad_chinese = "繁体中文";
+
+$responsive_layout = "Responsive Layout";
+$responsive_layout_1 = "Single Column";
+$responsive_layout_2 = "2 Column";
+$responsive_layout_3 = "3 Column";
+$responsive_layout_4 = "4 Coulmn";
+$responsive_layout_5 = "5 Coulmn";
+
+$january = "一月";
+$february = "二月";
+$march = "三月";
+$april = "四月";
+$may = "五月";
+$june = "六月";
+$july = "七月";
+$august = "八月";
+$september = "九月";
+$october = "十月";
+$november = "十一月";
+$december = "十二月";

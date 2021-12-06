@@ -1,0 +1,131 @@
+ul li {
+  list-style:none;
+  cursor:pointer;
+}
+
+.BountyChallenges, .TraderChallenges, .CollectorChallenges, .MoonshinerChallenges, .NaturalistChallenges {display: none;}
+
+.BountyChallengesTabs>.active{display:block}
+.TraderChallengesTabs>.active{display:block}
+.CollectorChallengesTabs>.active{display:block}
+.MoonshinerChallengesTabs>.active{display:block}
+.NaturalistChallengesTabs>.active{display:block}
+
+.challenge-rank-container {
+  display: table;
+  margin:8px 0px 4px 10px;
+  padding:0px 4px 0px 14px;
+  /*background: #000 url('/assets/images/challenge_bg/challenge_bg_45.png') no-repeat;*/
+  background: #000 url('/assets/images/bgs/achivement-bg-30.png') no-repeat;
+  background-size:100% 100%;
+  min-height: 52px;
+  max-height: 52px;
+  width: 590px;
+}
+
+.challenge-rank-label {
+  display: table-cell;
+  vertical-align: middle;
+  margin:0px 0px;
+  padding:2px 4px 0px 4px;
+  min-width:380px;
+  font-family: HapnaSlabBold, serif;
+  font-size:15px;
+  text-align: left;
+  text-shadow: 1.2px 1px #000;
+  letter-spacing:0.7px;
+  word-spacing:0.4px;
+}
+
+.challenge-rank-option {
+  display: inline-block;
+  margin:12px 0px 8px 30px;
+  padding:0;
+  height:32px;
+  min-width:140px;
+  text-align: right;
+}
+
+.challenge-rank-select {
+	min-width: 100px;
+  max-height: 32px;
+	padding:6px 8px 5px 12px !important;
+	margin:-2px 2px;
+  font-family: HapnaSlabBold, serif;
+  font-size:15px;
+  text-align: left;
+  text-shadow: 1.2px 1px #000;
+  letter-spacing:0.7px;
+  word-spacing:0.4px;
+	color:#daa520;
+	border:1px solid #111;
+}
+
+.challenge-rank-label-text {
+  margin:2px 4px 2px 12px;
+  padding:3px;
+  height:32px;
+  min-width:400px;	
+  text-align: left;
+  font-size:16px;
+  font-family: HapnaSlab, serif;
+  color:#fff;
+  letter-spacing:0.6px;
+  word-spacing:0.3px;
+  line-height: 48px;
+  text-shadow: 2px 2px #000;  
+}
+
+.challenges-rank-divider {
+  height: 3px;
+  width: 590px;
+  border: none;
+  background-image: url(../images/daily-challenges/header_border_divider.png);
+  background-repeat: repeat-x;
+  background-size: auto 3px;
+  margin: 12px 10px;
+  padding:0px;
+  opacity: 0.35;
+  text-align: center;
+}
+
+.reset-timer-container {
+  display: table;
+  margin:8px 0px 4px 10px;
+  padding:0px 4px 0px 14px;
+  /*background: #000 url('/assets/images/challenge_bg/challenge_bg_45.png') no-repeat;*/
+  background: #000 url('/assets/images/bgs/achivement-bg-30.png') no-repeat;
+  background-size:100% 100%;
+  min-height: 52px;
+  max-height: 52px;
+  width: 590px;
+}
+
+.reset-timer-label {
+  display: table-cell;
+  vertical-align: middle;
+  margin:0px 0px;
+  padding:2px 4px 0px 2px;
+  min-width:200px;
+  font-family: HapnaSlabBold, serif;
+  font-size:15px;
+  text-align: left;
+  text-shadow: 1.2px 1px #000;
+  letter-spacing:0.7px;
+  word-spacing:0.4px;
+}
+
+.reset-timer {
+  display: table-cell;
+  vertical-align: middle;
+  margin:0;
+  padding:0 20px 0 0;
+  min-height:32px;
+  min-width:260px;
+  font-family: HapnaSlab, serif;
+  font-size:15px;
+  text-align: right;
+  text-shadow: 1.2px 1px #000;
+  letter-spacing:0.7px;
+  word-spacing:0.4px;
+}
